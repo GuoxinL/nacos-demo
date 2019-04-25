@@ -1,0 +1,11 @@
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/DynamicRouteByNacosListener.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/route/impl/DynamicRouteServiceImpl.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/model/GatewayRouteDefinition.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/route/DynamicRouteService.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/GatewayApplication.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/model/GatewayFilterDefinition.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/controller/TagsRouteController.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/model/GatewayPredicateDefinition.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/controller/RouteController.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/repository/TagRepository.java
+/Users/guoxin/code/example/nacos-demo/nacos-demo-geteway-dynamic-routing/nacos-demo-geteway-dynamic-routing-discovery/src/main/java/pub/guoxin/demo/gateway/dr/dis/model/tag/TagDefinition.java
